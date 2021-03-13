@@ -85,6 +85,7 @@ body {
   main section:nth-child(3) figure:nth-child(2) textarea{
     text-align: left;
     height: 350px;
+    font-family: cursive;
   }
   main section:nth-child(3) div{
     display: flex;
